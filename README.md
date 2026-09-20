@@ -1,0 +1,1 @@
+This program is designed to have an agentic style team that consists of a Producer, Composer, Mix engineer, and Master Engineer to help you during ableton sessions to make a better tighter project that stays as cohesive as possible with the artistic direction you had in mind. Ultimatley helps you finish better songs.
